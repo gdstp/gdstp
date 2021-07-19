@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @gdstp, im currently programming using React, Redux, Typescript and NodeJS
+- 📑 Here's a list of projects:
+- 🛒 [Online Shop](https://react-online-shop.vercel.app/)
+- 📽️ [Favorites Movies](https://gdstp.github.io/react-favorite-movies/)
+- ♻️ [React/Redux Auth Boilerplate](https://github.com/gdstp/react-redux-auth-boilerplate)
