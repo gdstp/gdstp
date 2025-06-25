@@ -1,11 +1,18 @@
-<h1 align="center">Gabriel Teles</h1>
+<!-- <h1 align="center">Gabriel Teles</h1>
 <p align="center">
   <strong>Full-Stack Software Developer</strong><br/>
   TypeScript • Node.js • React • AWS<br/> 
   Remote from Brazil
-</p>
+</p> -->
 
-<p align="center">
+---
+
+## About
+
+I'm a software developer focused on building scalable web applications using modern technologies.
+Experienced with microservices, cloud infrastructure, and clean architecture.
+
+<p>
   <a href="https://www.linkedin.com/in/gbstp/">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn">
   </a>
@@ -16,12 +23,6 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
-
----
-
-## About
-I'm a software developer focused on building scalable web applications using modern technologies.
-Experienced with microservices, cloud infrastructure, and clean architecture.
 
 ---
 
