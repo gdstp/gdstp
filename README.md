@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Gabriel Teles</h1>
+<h1 align="center">Gabriel Teles</h1>
 <p align="center">
   <strong>Full-Stack Software Developer</strong><br/>
   TypeScript • Node.js • React • AWS<br/> 
