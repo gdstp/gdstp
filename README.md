@@ -1,10 +1,21 @@
-<!-- <h1 align="center">Gabriel Teles</h1>
+<h1 align="center">Gabriel Teles</h1>
 <p align="center">
   <strong>Full-Stack Software Developer</strong><br/>
   TypeScript • Node.js • React • AWS<br/> 
   Remote from Brazil
-</p> -->
-
+  <p align="center">
+    <a href="https://www.linkedin.com/in/gbstp/">
+      <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn">
+    </a>
+    <a href="https://dev.to/gdstp">
+      <img src="https://img.shields.io/badge/DEV.to-000000?logo=dev.to&logoColor=white" alt="DEV.to">
+    </a>
+    <a href="mailto:gabriel.teles.pinto+gh@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Email">
+    </a>
+  </p>
+</p>
+<!-- 
 ---
 
 ## About
@@ -12,19 +23,11 @@
 I'm a software developer focused on building scalable web applications using modern technologies.
 Experienced with microservices, cloud infrastructure, and clean architecture.
 
-<p>
-  <a href="https://www.linkedin.com/in/gbstp/">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn">
-  </a>
-  <a href="https://dev.to/gdstp">
-    <img src="https://img.shields.io/badge/DEV.to-000000?logo=dev.to&logoColor=white" alt="DEV.to">
-  </a>
-  <a href="mailto:gabriel.teles.pinto+gh@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
-
 ---
+
+## Technologies & Tools
+
+<p align="center" style="color: rgba(255, 255, 255, 0.4)">Keep it <i>clean</i>. Keep it <i>safe</i>.</p>
 
 ## Projects
 
@@ -99,7 +102,7 @@ Basic react component testing using @testing-library
 <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white" alt="Jest"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-</p>
+</p> -->
 
 ---
 
