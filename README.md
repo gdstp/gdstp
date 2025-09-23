@@ -2,7 +2,6 @@
 <p align="center">
   <strong>Full-Stack Software Developer</strong><br/>
   TypeScript • Node.js • React • AWS<br/> 
-  Remote from Brazil
   <p align="center">
     <a href="https://www.linkedin.com/in/gbstp/">
       <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn">
@@ -104,6 +103,5 @@ Basic react component testing using @testing-library
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white" alt="GitHub Actions"/>
 </p> -->
 
----
 
-<p align="center" style="color: rgba(255, 255, 255, 0.4)">Keep it <i>clean</i>. Keep it <i>safe</i>.</p>
+<!-- <p align="center" style="color: rgba(255, 255, 255, 0.4)">Keep it <i>clean</i>. Keep it <i>safe</i>.</p> -->
